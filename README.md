@@ -1,4 +1,4 @@
-# Student Marks Prediction - Regression Problem using XGBoost
+# Student Marks Prediction - Regression Problem using SVM
 
 ## Description
 
